@@ -6,5 +6,9 @@ dfdsf
 ds
 sdfdsf
 
+<<<<<<< HEAD
 testt
 ttt
+=======
+testt
+>>>>>>> new-branch
